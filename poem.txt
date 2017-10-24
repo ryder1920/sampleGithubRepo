@@ -5,6 +5,7 @@ orage
 green
 blue
 yellow
+turquoise
 .....
 hello
 .......
